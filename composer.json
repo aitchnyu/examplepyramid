@@ -1,0 +1,9 @@
+{
+    "name": "suyati/examplepyramid",
+    "description": "Concise, well-engineered code for making pyramids",
+    "autoload": {
+        "psr-0" : {
+            "Pyramid" : "src"
+        }
+    }
+}
